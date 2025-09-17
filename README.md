@@ -1,0 +1,1 @@
+meta_data_sampled.json是从MJHQ中随机采样出来的数据集，之后的实验统一使用这里的prompt生成，然后和数据集中的对应子集算FID和IR
